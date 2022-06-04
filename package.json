@@ -12,10 +12,11 @@
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
     "framer-motion": "^6.3.7",
+    "homepage": ".",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
-    "homepage": ".",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -49,6 +50,7 @@
     "dotenv": "^16.0.1",
     "ethereum-waffle": "^3.4.4",
     "ethers": "^5.6.8",
-    "hardhat": "^2.9.7"
+    "hardhat": "^2.9.7",
+    "tailwindcss": "^3.0.24"
   }
 }
